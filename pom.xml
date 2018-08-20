@@ -9,4 +9,8 @@
   <packaging>pom</packaging>
   <version>0.0.1-SNAPSHOT</version>
 
+  <modules>
+    <module>guava_demo</module>
+  </modules>
+
 </project>
