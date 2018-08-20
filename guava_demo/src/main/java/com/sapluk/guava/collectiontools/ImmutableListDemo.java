@@ -1,4 +1,4 @@
-package com.sapluk.guava;
+package com.sapluk.guava.collectiontools;
 
 import java.util.ArrayList;
 import java.util.Collections;
