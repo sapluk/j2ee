@@ -11,6 +11,7 @@
 
   <modules>
     <module>guava_demo</module>
+    <module>patterns</module>
   </modules>
 
 </project>
